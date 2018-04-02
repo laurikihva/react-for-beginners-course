@@ -1,1 +1,1 @@
-# react-for-beginners-course Master Package from https://reactforbeginners.com/
+react-for-beginners-course Master Package from https://reactforbeginners.com/
